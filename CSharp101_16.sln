@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1000
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp101_16", "CSharp101_16\CSharp101_16.csproj", "{E3F7F7F0-1274-49DF-821C-951CFD367D58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AA66BABF-D64D-47BF-A876-772EC76F67BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

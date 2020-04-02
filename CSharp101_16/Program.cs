@@ -16,6 +16,14 @@ namespace CSharp101_16
 
             var account = new BankAccount("Billy Bob", 10000);
             Console.WriteLine($"Account {account.Number} was created for {account.Owner} with {account.Balance}.");
+
+            account.MakeWithdrawl(120, DateTime.Now, "Hammock");
+
+            account.MakeWithdrawl(50, DateTime.Now, "XBox Game");
+
+            account.MakeDeposit(3000, DateTime.Now, "Tax Return");
+
+            Console.WriteLine(account.GetAccountHisotry());
         }
     }
 }
