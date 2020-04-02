@@ -1,0 +1,7 @@
+C:\Users\Daveena.Cooper\source\repos\CSharp101_16\CSharp101_16\bin\Debug\CSharp101_16.exe.config
+C:\Users\Daveena.Cooper\source\repos\CSharp101_16\CSharp101_16\bin\Debug\CSharp101_16.exe
+C:\Users\Daveena.Cooper\source\repos\CSharp101_16\CSharp101_16\bin\Debug\CSharp101_16.pdb
+C:\Users\Daveena.Cooper\source\repos\CSharp101_16\CSharp101_16\obj\Debug\CSharp101_16.csprojAssemblyReference.cache
+C:\Users\Daveena.Cooper\source\repos\CSharp101_16\CSharp101_16\obj\Debug\CSharp101_16.csproj.CoreCompileInputs.cache
+C:\Users\Daveena.Cooper\source\repos\CSharp101_16\CSharp101_16\obj\Debug\CSharp101_16.exe
+C:\Users\Daveena.Cooper\source\repos\CSharp101_16\CSharp101_16\obj\Debug\CSharp101_16.pdb
